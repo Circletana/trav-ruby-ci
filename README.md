@@ -1,2 +1,6 @@
-# trav-ruby-ci
-Travis CI tests for Ruby 
+# Travis CI Test
+
+
+Testing CI times core Ruby app via Montana Mendy 
+
+
