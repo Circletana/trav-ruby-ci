@@ -1,0 +1,5 @@
+# Test at least 5 times (by Montana Mendy)
+
+language: ruby
+rvm:
+  - 2.2
